@@ -98,7 +98,7 @@
    </pre>
    
 ### 8. Penggunaan btnUpdate
-  Pada Button Update (btnUpdate), berfungsi untuk merubah isi data yang ada dalam database. Fungsi ini akan dijalankan ketika data pada Tabel (JTable) dipilih. 
+  Pada Button Update (btnUpdate), berfungsi untuk merubah isi data yang ada dalam database.  
    <pre>
    private void btnUpdateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnUpdateActionPerformed
         // TODO add your handling code here:
@@ -146,7 +146,7 @@
    </pre>
 
 ### 9. Penggunaan btnHapus
-Pada Button Hapus (btnHapus), berfungsi untuk menghapus isi data yang ada dalam database. Fungsi ini akan dijalankan ketika data pada Tabel (JTable) dipilih. 
+Pada Button Hapus (btnHapus), berfungsi untuk menghapus isi data yang ada dalam database.  
 <pre>
   private void btnHapusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHapusActionPerformed
         // TODO add your handling code here:
