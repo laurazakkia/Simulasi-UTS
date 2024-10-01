@@ -185,17 +185,21 @@ Pada Button Hapus (btnHapus), berfungsi untuk menghapus isi data yang ada dalam 
 ### 1. Menambah data
 Isi data yang akan ditambahkan pada TextField.
 ![Screenshot 2024-10-01 213305](https://github.com/user-attachments/assets/a6532aa3-e280-4672-aa8d-f4a7dd2c9ea7)
+
 Klik **Tambah**, dan data akan otomatis ada pada tabel
 ![Screenshot 2024-10-01 213317](https://github.com/user-attachments/assets/ba8be87d-893c-4fd9-836c-c002191acab5)
 
 ### 2. Update data
 Pilih data yang akan diupdate lalu update sesuai keinginan
 ![{40F27B6B-A1A7-4BD6-99D0-42CE8294E53D}](https://github.com/user-attachments/assets/8e2fe5ef-2704-4a05-a88f-b565e90b8fe4)
+
 Klik **Update**, dan data akan otomatis terupdate
 ![{E10B7E1F-95F0-4B11-90AF-95950C6D54EB}](https://github.com/user-attachments/assets/a0f35175-9f57-4972-9623-632f888a50ec)
 
 ### 3. Hapus Data
-Pilih data yang akan dihapus
+Pilih data yang akan dihapus.
 ![{39CED098-0FB8-4368-AC99-047797FEDC7C}](https://github.com/user-attachments/assets/f8a9ba71-5bc9-4a41-8b5c-2173feabae51)
-Klik **Hapus**, dan data akan otomatis terhapus
-![{39DDF40B-9F50-462A-8CB9-B49E3DF39840}](https://github.com/user-attachments/assets/3dba280b-e8a4-443e-abcb-b1a6ab1ad14d)
+
+Klik **Hapus**, dan data akan terhapus.
+![Screenshot 2024-10-01 214328](https://github.com/user-attachments/assets/6b2f08aa-ce82-4699-adae-cde78edaf7ea)
+
